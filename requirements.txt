@@ -1,2 +1,7 @@
-jupyterlab>=4.0.0
-numpy>=1.24.0
+jupyterlab>=4.2.5
+numpy>=1.26.4
+
+# Transitive security pins
+urllib3>=2.2.2
+certifi>=2024.8.30
+idna>=3.7
